@@ -25,4 +25,4 @@ Finally update the directory path in the environment variable for running it fro
 
 ###### Output Graphics:
 
-![Output](Learning-java/assets/project_graphics/WC_tool/image1.png)
+![Output](assets/project_graphics/WC_tool/image1.png)
